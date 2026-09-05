@@ -1,0 +1,93 @@
+version=1.4.0
+content-id=4381c912307c32c410dfee49d94734036b0355c80db52002a2844d28ccd20e31
+published=2026-09-05T14:51:03Z
+[assets]
+bundle	content-1.4.0	xtra_dead_air_x64_content_anims_00_d260cc5ea623436f.xdb0	606972	d260cc5ea623436f5df6bd25e14c6e267f0f2af98a851d6acace532385a580f2
+bundle	content-1.4.0	xtra_dead_air_x64_content_meshes_00_8d0e28ef4b924fda.xdb0	63147632	8d0e28ef4b924fda935421b81632298e6364d566d7fd3aa5a35113f5f8d353ab
+bundle	content-1.4.0	xtra_dead_air_x64_content_sounds_00_debb32457b61543d.xdb0	6039400	debb32457b61543d3286379d384544867859653fdf67f597ba3a59fa3b72e68a
+bundle	content-1.4.0	xtra_dead_air_x64_content_textures_00_21e60c654a0a4f10.xdb0	254124223	21e60c654a0a4f10c9c85668736317a6393cafb6a4ed69286131f59a050104b9
+bundle	content-1.4.0	xtra_dead_air_x64_content_textures_01_3c7f7417e06a00ec.xdb0	259207848	3c7f7417e06a00ecf135a403ea40edceb0622c7109d7de4338a8ac1c692faafd
+bundle	content-1.4.0	xtra_dead_air_x64_content_textures_02_90e736d1d52cceca.xdb0	730319927	90e736d1d52cceca4ab163a0e0a0c4f0425370d6897999f1c8f7233803de1acd
+bundle	content-1.4.0	xtra_dead_air_x64_content_textures_03_59f4dfb032ede976.xdb0	715267220	59f4dfb032ede976d58861e014ecc80c40ef70a56da313b49a82bdfd63cd4770
+bundle	content-1.4.0	xtra_dead_air_x64_content_textures_04_ff4bf7e02f1fd6b5.xdb0	553534025	ff4bf7e02f1fd6b55f88d203df88d7800c820faa654fcccb30e9c28a6604c235
+bundle	content-1.4.0	xtra_dead_air_x64_content_textures_05_535d1152e7e2ea56.xdb0	386381798	535d1152e7e2ea56886ae8d16f5a66abd7a17be4d1404d070dfd096e6fceb5ee
+bundle	content-1.4.0	xtra_dead_air_x64_content_textures_06_75de76aa1eef4a38.xdb0	293124305	75de76aa1eef4a38cf32035f44f6969a53723de547dc9ca1c95c5fc927caf9ef
+bundle	content-1.4.0	xtra_dead_air_x64_content_textures_07_26eb5bee40d74afc.xdb0	270557561	26eb5bee40d74afc29aea038995c1a15f81ecb1f5932380469d11d048704a033
+bundle	content-1.4.0	xtra_dead_air_x64_content_textures_08_ae104ec50c9cc3dd.xdb0	224762036	ae104ec50c9cc3ddfbf51ae4ba1f7e2cddb5993f192a455f3f63885d5773fb1c
+bundle	content-1.4.0	xtra_dead_air_x64_content_textures_09_2d3fe03645c3661d.xdb0	215956170	2d3fe03645c3661dc3a73f66dd5c610cda7fa54e105e308a9d0da701d2724106
+bundle	content-1.4.0	xtra_dead_air_x64_content_textures_10_adb1ab1f8e35f60f.xdb0	217726312	adb1ab1f8e35f60f8d36056f014e94c6129a6b14e3e32cf3dac5b8ee9dce5075
+bundle	content-1.4.0	xtra_dead_air_x64_content_textures_11_7f4e88960dd43f69.xdb0	218826537	7f4e88960dd43f69e1a7fec453c7b1490d432bfc6e80ae054a00fe3f3bdd52d4
+bundle	content-1.4.0	xtra_dead_air_x64_content_textures_12_9a9aad2438849134.xdb0	221489996	9a9aad24388491341300b2937e147cf85083de0da4d551b85a1b6121026062de
+bundle	content-1.4.0	xtra_dead_air_x64_content_textures_13_26ba25e34c0182cc.xdb0	254840312	26ba25e34c0182cc4487d32d72588198d7a51070c5eedd760a55a984d999c5c1
+bundle	content-1.4.0	xtra_dead_air_x64_content_textures_14_2ec063d1d3a23ab4.xdb0	230715791	2ec063d1d3a23ab41140cb0e60690564edf8828b3ea373de3c4d302bed2fa1c4
+[groups.ltx]
+; Content bundle layout for Dead Air: Refined.
+;
+; Content is split into bundles so that changing one texture re-publishes one bundle instead
+; of the whole set. A bundle is an .xdb0 archive whose filename carries the SHA-256 of the
+; packed file, so unchanged content keeps its name and is never re-uploaded or re-downloaded.
+;
+; THE ASSIGNMENT TABLE BELOW IS APPEND-ONLY.
+; Editing or removing a line moves files between bundles, which changes both bundles' bytes,
+; which changes both filenames - and every installed player re-downloads both. New directories
+; are appended automatically by the builder into the smallest shard of their group; that edit
+; is committed and reviewed like any other, but existing lines are never touched.
+;
+; Sharding is an explicit directory table rather than `hash % shard_count` precisely because
+; the shard count WILL grow: a modulo scheme re-shuffles every file the moment it changes, so
+; a single new bundle would cost a full re-download of everything.
+
+[groups]
+; group name = the gamedata subtree it draws from
+textures        = textures
+meshes          = meshes
+sounds          = sounds
+anims           = anims
+
+[shard]
+; A shard aims for this size. It is a target, not a limit: a directory is never split across
+; shards, so one oversized directory produces one oversized bundle (the builder warns).
+target_mb       = 250
+; Hard ceiling per bundle file. GitHub refuses a release asset above 2 GiB.
+max_mb          = 1536
+
+[assign]
+; <root>/<first path component> = <shard index>
+textures/act            = 00
+textures/item           = 00
+textures/ui             = 01
+meshes/dynamics         = 00
+sounds/dead_air_x64     = 00
+sounds/detectorshud     = 00
+sounds/items            = 00
+anims/camera_effects    = 00
+textures/crete          = 02
+textures/mtl            = 03
+textures/ston           = 04
+textures/usable_items   = 05
+textures/detail         = 06
+textures/wall           = 07
+textures/prop           = 01
+textures/grnd           = 08
+textures/door           = 09
+textures/briks          = 10
+textures/wood           = 11
+textures/trees          = 12
+textures/floor          = 00
+textures/wind           = 13
+textures/headgear_hud   = 13
+textures/tile           = 14
+textures/water          = 14
+textures/veh            = 12
+textures/roof           = 11
+textures/glass          = 10
+textures/glas           = 10
+meshes/anomaly_weapons  = 00
+textures/liz_outfit_animations= 09
+sounds/interface        = 00
+textures/gwr            = 10
+meshes/gwr              = 00
+sounds/actor            = 00
+anims/itemuse_anm_effects= 00
+anims/inverted_itemuse_anm_effects= 00
+textures/drink          = 10

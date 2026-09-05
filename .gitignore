@@ -1,0 +1,5 @@
+# The authoring tree and the bundle cache are the content itself: gigabytes that belong in
+# release assets, never in git. Only the index/ audit files are versioned here.
+source/
+.cache/
+build/

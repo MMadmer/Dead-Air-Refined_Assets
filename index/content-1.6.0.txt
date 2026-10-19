@@ -1,0 +1,289 @@
+version=1.6.0
+content-id=dd2b3287705ec0509a237c52fd8b486442503fa591bd26aa8ee7108733143f7c
+published=2026-10-19T12:17:16Z
+[assets]
+bundle	content-1.6.0	xtra_dead_air_x64_content_anims_00_40f00d5da74a42c8.xdb0	452478	40f00d5da74a42c8745841d06c2cbd59f48650ccb3ef51f8a208807e551309df
+bundle	content-1.6.0	xtra_dead_air_x64_content_meshes_00_5802deb1e0adc094.xdb0	111345976	5802deb1e0adc0947e09eeb65c22a97ae9abbe6224f0f35ae04cd06fdcf06c8a
+bundle	content-1.6.0	xtra_dead_air_x64_content_sounds_00_53dcdebb513c7400.xdb0	4735271	53dcdebb513c7400b63f81530af9301f1bbd3718675127c6d446a6134711ea0e
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_00_26ccc43344d671fa.xdb0	304976760	26ccc43344d671fa7925cae1c733ccde1e9c4288391fabc19ae13cf19607d025
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_01_f7a0d880900cd41f.xdb0	229052051	f7a0d880900cd41f6eb28bcfe37d4319ae202d0c764a2fb6d727abcb4867cab2
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_02_8777319d3f9a53de.xdb0	834529370	8777319d3f9a53deb59f43bfc9e2cdacf309958d8637c7ef7663b057d605eb3f
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_03_a85959242b5e1967.xdb0	972248099	a85959242b5e196734a01696f2f85a6eecbf547ddeccae04e1399330c3c25d83
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_04_d498977409582923.xdb0	535674148	d49897740958292376fd2a28429ff8fe960a941cf4f79e1db6e8f8bc88eb5d58
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_05_adb17f0bfab14948.xdb0	330971361	adb17f0bfab14948fa15c14ebb57a5f29c6e384866a178b17eebaf4128cad80f
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_06_126404bdde026463.xdb0	312481192	126404bdde026463bf5689fb7ff9a8d7fb94a2fe44d7f98a5bbb604469652fd6
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_07_c49890b9fa926e89.xdb0	314759911	c49890b9fa926e89b1322eba055b88f98fbd212c4628b69aee60f2c5219a8ca8
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_08_3c1f3732fd7f73ef.xdb0	240481989	3c1f3732fd7f73ef33c6fdd187f7b1b7ecd984650dbafd59f36f82f01055fd1d
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_09_9230fc7e2f6a70be.xdb0	206932587	9230fc7e2f6a70be6e426a208ef293a3d0e93ad9ae63f0102d420b2c21e381ec
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_10_067d008226a66df6.xdb0	256557723	067d008226a66df60f60ad96409233435e0237f6fb423e4603911dd2409eb6c9
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_11_c7c0bc3594abd6eb.xdb0	318430051	c7c0bc3594abd6ebebfd45c478837e6c669360b9e8cf56f86cc5a26fb126b94c
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_12_ef6a47fe19bc4510.xdb0	215915971	ef6a47fe19bc4510b408eba57071df82d780515896b59cc73fadb6cfac28be23
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_13_a8ce47aaea903ddb.xdb0	146637522	a8ce47aaea903ddb2ce1d4a752c7b9c7aa7e25674f8de58d8dade55ca8428608
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_14_0bdfd9a914e07cf2.xdb0	184556159	0bdfd9a914e07cf255aecefbe8fc63277a1137009b31ccaafbd019fb17cec90e
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_15_ca5b1ab47767d296.xdb0	174421910	ca5b1ab47767d296c9982f522f896ea93d5ed5548660cee669fc1931bfd0d532
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_16_fdb5e64aa8abda37.xdb0	216302435	fdb5e64aa8abda37282c15754f739d5255a854e452dcc50ffb2c618d34212516
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_17_c454ffc5e23cd1a9.xdb0	199525099	c454ffc5e23cd1a9f7b913589d2f1eb8aac6317ff519c1c3f0646e964ea79007
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_18_41adb7ac8b88b9de.xdb0	199525090	41adb7ac8b88b9de96d0fd1309d752681b31f9c5b1bb33fe193bd5b25e10f44d
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_19_a747bede69b77177.xdb0	86621033	a747bede69b771770f79a1c6c748b3369ca4025e96bbc15c8f2461fbf3e5a63e
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_20_2290a7391040095c.xdb0	4893976	2290a7391040095cbabc84ddef6a31cd2a3d03aea3f1ee44c270c3cb305c71ae
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_22_0dfea112a9f0940c.xdb0	47781180	0dfea112a9f0940c39d2d99a7d7e3fdb03d77868a308395cf2672bdf2b684bac
+bundle	content-1.6.0	xtra_dead_air_x64_content_textures_23_95fc82ff99332eb0.xdb0	182592876	95fc82ff99332eb094170bbf010dc99229bf99916b3cb87c1df405e3f3c384d3
+chunks	content-1.6.0	xtra_dead_air_x64_content_anims_00_40f00d5da74a42c8.xdb0.chunks	172	7e9c372542ab136cace64828999bfc8ae2e776aec99a21878239234509440b32
+chunks	content-1.6.0	xtra_dead_air_x64_content_meshes_00_5802deb1e0adc094.xdb0.chunks	37892	68240f47ca711ba4cf975c716fb3ec23471fab1be0ee8b0bcc75c28f8a7121c8
+chunks	content-1.6.0	xtra_dead_air_x64_content_sounds_00_53dcdebb513c7400.xdb0.chunks	2172	eb9cb3879c5090a047dcf0b1cb8e653c365ea11bea0add8fa022f283f113228d
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_00_26ccc43344d671fa.xdb0.chunks	129772	2b8f4958873993a1674c89e0ec058a1285a0b46c1749041031ba83fa0b8fe6a2
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_01_f7a0d880900cd41f.xdb0.chunks	106852	8a4a51b24e08a7da75a2f17b51bb9c754be86a86c58aca6e07737a02fd5ae480
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_02_8777319d3f9a53de.xdb0.chunks	388932	c5aee399fe650c299f4431ca10700232ae11b568b29df2fbc0e91e0d51e001ae
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_03_a85959242b5e1967.xdb0.chunks	459312	63a5194b028a5fddbc487ff3e064624ddb6fa80e853fbc5e15d425f18bf0317e
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_04_d498977409582923.xdb0.chunks	253452	c415cec0c1b0322d66d0cd3fb83eb4e48da622f175f3c857fb7aafe71b788e66
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_05_adb17f0bfab14948.xdb0.chunks	109672	b06fa3584660ff0c9ccf4c3527c3297686e157c18687ff8108f0cfb5237094ac
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_06_126404bdde026463.xdb0.chunks	142272	9968ecac7e4566dc1e73c6762d1b27a89b0b8d5ce383b5e36f7f8b426f071584
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_07_c49890b9fa926e89.xdb0.chunks	148612	971cecf28acef57e4d2554cc660ca91f86dde307d1b92e109f1cb0cb7b8e55af
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_08_3c1f3732fd7f73ef.xdb0.chunks	112192	406e999a89a2dc35805d9e2d057e83d54dc8ceb0004be85acb5e1e39f75229e3
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_09_9230fc7e2f6a70be.xdb0.chunks	97392	45ee36c9c2b497642c94d3decf97227c1adc5ea13e99da13d9bbc1ccb7a3f3f1
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_10_067d008226a66df6.xdb0.chunks	119672	9cd802df364c6395ea89d2a8db6ece93488da3f7d02b82927aee69621da7970b
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_11_c7c0bc3594abd6eb.xdb0.chunks	150432	5dbefbf8cdd55fe326cfaaa2843a22fcfd0dcc63c620f789fb19660419efc714
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_12_ef6a47fe19bc4510.xdb0.chunks	69952	cb684105486332ee742b728d7f4b2204baefefcb1fa17734cbc342ba1b30f0f6
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_13_a8ce47aaea903ddb.xdb0.chunks	59892	b464390b4453975c22e7ccb8482b9a7e086ff8da5f98f0fd7a1b6fe10a32ecc1
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_14_0bdfd9a914e07cf2.xdb0.chunks	83332	f9513ccd34afbff2b4336f22c1981be779e149907800db9e97714ce034be831e
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_15_ca5b1ab47767d296.xdb0.chunks	58912	0434b9f96afbdd15838d41921ec3b3173fc911b5c68ec9baca60c956d750b3dd
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_16_fdb5e64aa8abda37.xdb0.chunks	69912	5b07fb56d6fe51423051bebb819eb342102496c34327e6a97109c12558f212de
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_17_c454ffc5e23cd1a9.xdb0.chunks	67772	893389d9a23e151f36f121c9d7998c93110e33c5610bde88fec4b5b8e437b01d
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_18_41adb7ac8b88b9de.xdb0.chunks	63492	04a1c2a93e12f00f263479e9b8891aa3d08a7e0d981d62b75a786d967c07574e
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_19_a747bede69b77177.xdb0.chunks	28852	eb8ecd6a4b253c59371b5cc355fa615968db00970df5070b7e9c284ece59ab19
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_20_2290a7391040095c.xdb0.chunks	1472	6820c7d822e2791046ecc8c1e3c44363b93131770a9fd65167ef7d3e54d12119
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_22_0dfea112a9f0940c.xdb0.chunks	11692	3c223b2c56bbe7669fdf7fd5201734a1e204bed270eb3c5824613a4f0c4385e6
+chunks	content-1.6.0	xtra_dead_air_x64_content_textures_23_95fc82ff99332eb0.xdb0.chunks	61152	ea0ad8e49cc407da6f8faf360503c6c93e2f34338219f1cb623033273600b227
+[groups.ltx]
+; Content bundle layout for Dead Air: Refined.
+;
+; Content is split into bundles so that changing one texture re-publishes one bundle instead
+; of the whole set. A bundle is an .xdb0 archive whose filename carries the SHA-256 of the
+; packed file, so unchanged content keeps its name and is never re-uploaded or re-downloaded.
+;
+; THE ASSIGNMENT TABLE BELOW IS APPEND-ONLY.
+; Editing or removing a line moves files between bundles, which changes both bundles' bytes,
+; which changes both filenames - and every installed player re-downloads both. New directories
+; are appended automatically by the builder into the smallest shard of their group; that edit
+; is committed and reviewed like any other, but existing lines are never touched.
+;
+; Sharding is an explicit directory table rather than `hash % shard_count` precisely because
+; the shard count WILL grow: a modulo scheme re-shuffles every file the moment it changes, so
+; a single new bundle would cost a full re-download of everything.
+
+[groups]
+; group name = the gamedata subtree it draws from
+textures        = textures
+meshes          = meshes
+sounds          = sounds
+anims           = anims
+
+[shard]
+; A shard aims for this size. It is a target, not a limit: a directory is never split across
+; shards, so one oversized directory produces one oversized bundle (the builder warns).
+target_mb       = 250
+; Hard ceiling per bundle file. GitHub refuses a release asset above 2 GiB.
+max_mb          = 1536
+
+[assign]
+; <root>/<first path component> = <shard index>
+textures/act            = 00
+textures/item           = 00
+textures/ui             = 01
+meshes/dynamics         = 00
+sounds/dead_air_x64     = 00
+sounds/detectorshud     = 00
+sounds/items            = 00
+anims/camera_effects    = 00
+textures/crete          = 02
+textures/mtl            = 03
+textures/ston           = 04
+textures/usable_items   = 05
+textures/detail         = 06
+textures/wall           = 07
+textures/prop           = 01
+textures/grnd           = 08
+textures/door           = 09
+textures/briks          = 10
+textures/wood           = 11
+textures/trees          = 12
+textures/floor          = 00
+textures/wind           = 13
+textures/headgear_hud   = 13
+textures/tile           = 14
+textures/water          = 14
+textures/veh            = 12
+textures/roof           = 11
+textures/glass          = 10
+textures/glas           = 10
+meshes/anomaly_weapons  = 00
+textures/liz_outfit_animations= 09
+sounds/interface        = 00
+textures/gwr            = 10
+meshes/gwr              = 00
+sounds/actor            = 00
+anims/itemuse_anm_effects= 00
+anims/inverted_itemuse_anm_effects= 00
+textures/drink          = 10
+textures/seasons/spring_early/levels/jupiter = 15
+textures/seasons/spring_early/levels/k00_marsh = 15
+textures/seasons/spring_early/levels/k01_darkscape = 15
+textures/seasons/spring_early/levels/k02_trucks_cemetery = 15
+textures/seasons/spring_early/levels/l01_escape = 15
+textures/seasons/spring_early/levels/l02_garbage = 15
+textures/seasons/spring_early/levels/l03_agroprom = 15
+textures/seasons/spring_early/levels/l04_darkvalley = 15
+textures/seasons/spring_early/levels/l05_bar = 15
+textures/seasons/spring_early/levels/l06_rostok = 15
+textures/seasons/spring_early/levels/l08_yantar = 15
+textures/seasons/spring_early/levels/l09_deadcity = 15
+textures/seasons/spring_early/levels/l10_limansk = 15
+textures/seasons/spring_early/levels/l10_radar = 15
+textures/seasons/spring_early/levels/l10_red_forest = 15
+textures/seasons/spring_early/levels/l11_hospital = 15
+textures/seasons/spring_early/levels/l11_pripyat = 15
+textures/seasons/spring_early/levels/l12_stancia = 15
+textures/seasons/spring_early/levels/l12_stancia_2 = 15
+textures/seasons/spring_early/levels/l13_generators = 15
+textures/seasons/spring_early/levels/new_military = 15
+textures/seasons/spring_early/levels/pripyat = 15
+textures/seasons/spring_early/levels/zaton = 15
+textures/seasons/spring_early/map = 15
+textures/seasons/spring_early/trees = 16
+textures/seasons/spring_early/ui = 16
+textures/seasons/spring_late/levels/jupiter = 16
+textures/seasons/spring_late/levels/k00_marsh = 16
+textures/seasons/spring_late/levels/k01_darkscape = 16
+textures/seasons/spring_late/levels/k02_trucks_cemetery = 16
+textures/seasons/spring_late/levels/l01_escape = 16
+textures/seasons/spring_late/levels/l02_garbage = 16
+textures/seasons/spring_late/levels/l03_agroprom = 16
+textures/seasons/spring_late/levels/l04_darkvalley = 16
+textures/seasons/spring_late/levels/l05_bar = 16
+textures/seasons/spring_late/levels/l06_rostok = 16
+textures/seasons/spring_late/levels/l08_yantar = 16
+textures/seasons/spring_late/levels/l09_deadcity = 16
+textures/seasons/spring_late/levels/l10_limansk = 16
+textures/seasons/spring_late/levels/l10_radar = 16
+textures/seasons/spring_late/levels/l10_red_forest = 16
+textures/seasons/spring_late/levels/l11_hospital = 16
+textures/seasons/spring_late/levels/l11_pripyat = 16
+textures/seasons/spring_late/levels/l12_stancia = 16
+textures/seasons/spring_late/levels/l12_stancia_2 = 16
+textures/seasons/spring_late/levels/l13_generators = 16
+textures/seasons/spring_late/levels/new_military = 16
+textures/seasons/spring_late/levels/pripyat = 16
+textures/seasons/spring_late/levels/zaton = 16
+textures/seasons/spring_late/map = 17
+textures/seasons/spring_late/trees = 17
+textures/seasons/spring_late/ui = 17
+textures/seasons/spring_mid/levels/jupiter = 17
+textures/seasons/spring_mid/levels/k00_marsh = 17
+textures/seasons/spring_mid/levels/k01_darkscape = 17
+textures/seasons/spring_mid/levels/k02_trucks_cemetery = 17
+textures/seasons/spring_mid/levels/l01_escape = 17
+textures/seasons/spring_mid/levels/l02_garbage = 17
+textures/seasons/spring_mid/levels/l03_agroprom = 17
+textures/seasons/spring_mid/levels/l04_darkvalley = 17
+textures/seasons/spring_mid/levels/l05_bar = 17
+textures/seasons/spring_mid/levels/l06_rostok = 17
+textures/seasons/spring_mid/levels/l08_yantar = 17
+textures/seasons/spring_mid/levels/l09_deadcity = 17
+textures/seasons/spring_mid/levels/l10_limansk = 17
+textures/seasons/spring_mid/levels/l10_radar = 17
+textures/seasons/spring_mid/levels/l10_red_forest = 17
+textures/seasons/spring_mid/levels/l11_hospital = 17
+textures/seasons/spring_mid/levels/l11_pripyat = 17
+textures/seasons/spring_mid/levels/l12_stancia = 17
+textures/seasons/spring_mid/levels/l12_stancia_2 = 17
+textures/seasons/spring_mid/levels/l13_generators = 17
+textures/seasons/spring_mid/levels/new_military = 17
+textures/seasons/spring_mid/levels/pripyat = 17
+textures/seasons/spring_mid/levels/zaton = 18
+textures/seasons/spring_mid/map = 18
+textures/seasons/spring_mid/trees = 18
+textures/seasons/spring_mid/ui = 18
+textures/seasons/summer/levels/jupiter = 18
+textures/seasons/summer/levels/k00_marsh = 18
+textures/seasons/summer/levels/k01_darkscape = 18
+textures/seasons/summer/levels/k02_trucks_cemetery = 18
+textures/seasons/summer/levels/l01_escape = 18
+textures/seasons/summer/levels/l02_garbage = 18
+textures/seasons/summer/levels/l03_agroprom = 18
+textures/seasons/summer/levels/l04_darkvalley = 18
+textures/seasons/summer/levels/l05_bar = 18
+textures/seasons/summer/levels/l06_rostok = 18
+textures/seasons/summer/levels/l08_yantar = 18
+textures/seasons/summer/levels/l09_deadcity = 18
+textures/seasons/summer/levels/l10_limansk = 18
+textures/seasons/summer/levels/l10_radar = 18
+textures/seasons/summer/levels/l10_red_forest = 18
+textures/seasons/summer/levels/l11_hospital = 18
+textures/seasons/summer/levels/l11_pripyat = 18
+textures/seasons/summer/levels/l12_stancia = 18
+textures/seasons/summer/levels/l12_stancia_2 = 18
+textures/seasons/summer/levels/l13_generators = 18
+textures/seasons/summer/levels/new_military = 18
+textures/seasons/summer/levels/pripyat = 19
+textures/seasons/summer/levels/zaton = 19
+textures/seasons/summer/map = 19
+textures/seasons/summer/trees = 19
+textures/seasons/summer/ui = 19
+textures/seasons/winter/detail = 19
+textures/seasons/winter/grnd = 19
+textures/seasons/winter/levels/jupiter = 19
+textures/seasons/winter/levels/k00_marsh = 20
+textures/seasons/winter/levels/k01_darkscape = 20
+textures/seasons/winter/levels/k02_trucks_cemetery = 20
+textures/seasons/winter/levels/l01_escape = 20
+textures/seasons/winter/levels/l02_garbage = 20
+textures/seasons/winter/levels/l03_agroprom = 20
+textures/seasons/winter/levels/l04_darkvalley = 20
+textures/seasons/winter/levels/l05_bar = 20
+textures/seasons/winter/levels/l06_rostok = 20
+textures/seasons/winter/levels/l08_yantar = 20
+textures/seasons/winter/levels/l09_deadcity = 20
+textures/seasons/winter/levels/l10_limansk = 20
+textures/seasons/winter/levels/l10_radar = 20
+textures/seasons/winter/levels/l10_red_forest = 20
+textures/seasons/winter/levels/l11_hospital = 20
+textures/seasons/winter/levels/l11_pripyat = 20
+textures/seasons/winter/levels/l12_stancia = 20
+textures/seasons/winter/levels/l12_stancia_2 = 20
+textures/seasons/winter/levels/l13_generators = 20
+textures/seasons/winter/levels/new_military = 20
+textures/seasons/winter/levels/pripyat = 20
+textures/seasons/winter/levels/zaton = 20
+textures/seasons/winter/map = 20
+textures/seasons/winter/ui = 20
+textures/seasons        = 21
+textures/seasons/autumn/levels/jupiter = 22
+textures/seasons/autumn/levels/k00_marsh = 22
+textures/seasons/autumn/levels/k01_darkscape = 22
+textures/seasons/autumn/levels/k02_trucks_cemetery = 22
+textures/seasons/autumn/levels/l01_escape = 22
+textures/seasons/autumn/levels/l02_garbage = 22
+textures/seasons/autumn/levels/l03_agroprom = 22
+textures/seasons/autumn/levels/l04_darkvalley = 22
+textures/seasons/autumn/levels/l05_bar = 22
+textures/seasons/autumn/levels/l06_rostok = 22
+textures/seasons/autumn/levels/l08_yantar = 22
+textures/seasons/autumn/levels/l09_deadcity = 22
+textures/seasons/autumn/levels/l10_limansk = 22
+textures/seasons/autumn/levels/l10_radar = 22
+textures/seasons/autumn/levels/l10_red_forest = 22
+textures/seasons/autumn/levels/l11_hospital = 22
+textures/seasons/autumn/levels/l11_pripyat = 22
+textures/seasons/autumn/levels/l12_stancia = 22
+textures/seasons/autumn/levels/l12_stancia_2 = 22
+textures/seasons/autumn/levels/l13_generators = 22
+textures/seasons/autumn/levels/new_military = 22
+textures/seasons/autumn/levels/pripyat = 22
+textures/seasons/autumn/levels/zaton = 22
+textures/seasons/winter/trees = 22
+textures/seasons/winter/decal = 23
+textures/seasons/winter/roof = 23
+textures/seasons/winter/vine = 23
+textures/wpn            = 23
+textures/da             = 23
+meshes/da               = 00

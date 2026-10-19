@@ -19,8 +19,8 @@ Each release is tagged `content-MAJOR.MINOR.PATCH` and carries:
 - one asset per content bundle, named
   `xtra_dead_air_x64_content_<group>_<NN>_<16 hex>.xdb0`, where the hex is the
   first 16 characters of the file's own SHA-256;
-- one asset per binary delta, `.darpatch`, for upgrading a bundle from an
-  earlier revision without re-downloading it whole.
+- one chunk map per bundle, `<bundle>.chunks`, which lets a client that holds
+  an earlier revision of the bundle download only the byte ranges that changed.
 
 **A published asset is never replaced and a published tag is never deleted.**
 Bundle names carry the hash of their own bytes, so replacing bytes under an
@@ -66,9 +66,9 @@ format is specified in its `docs/dead-air/CONTENT_BUNDLES.md`.
 
 ## Whose work this is
 
-The bundles carry other people's work under their own terms - Stalker Two-K by
-Akinaro, Absolute Nature 4 by Cromm Cruac, the first-person animation sets and
-the 3D PDA. Who made what, on what terms, what was changed and whom the project
-notified is in [`CREDITS.md`](CREDITS.md), the same ledger the engine repository
-keeps as `docs/dead-air/ASSET_CREDITS.md`. Both sets of textures are free, for
-S.T.A.L.K.E.R. games only, and stay that way here.
+Most of the content is the project's own: textures, tree and foliage cards,
+season sets and models made by Dead Air: Refined from Dead Air's own files, GSC's
+CoP SDK sources and CC0 scans. The rest is other people's work under their own
+terms - the first-person animation sets and the 3D PDA. Who made what and on what
+terms is in [`CREDITS.md`](CREDITS.md), the same ledger the engine repository
+keeps as `docs/dead-air/ASSET_CREDITS.md`.
